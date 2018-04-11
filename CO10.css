@@ -1,0 +1,42 @@
+/*
+* Meg Doyle
+* 4/10/18
+* CO 10
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    background-color: green;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	text-decoration: overline underline;
+	font-size: 120%;
+	text-align: center;
+}
+h1,h3,h5,{ 
+	background-color:#4286f4;
+}
+p{
+	background-color: white;
+	color: rgb(165,16,123);
+}
+h2,h4,h6,{ 
+	background-color:#d88fc3;
+}
+p{
+	background-color: white;
+	color: rgb(121,152,247);
+}
+img{
+	float: right;
+}
